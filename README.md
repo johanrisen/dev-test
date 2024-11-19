@@ -14,4 +14,6 @@ Applikationen ska innehålla:
 
 Gör uppgiften i mån om tid och prioritera. Du får gärna utöka uppgiften med något du tycker är viktigt eller kul. För oss är det viktiga att du kan resonera kring de val du gjort och hur du tänkt när du löst uppgiften.
 
+Att dela koden med oss görs med fördel genom att skapa ett eget repo på github och dela till användare johanrisen.
+
 Lycka till!
